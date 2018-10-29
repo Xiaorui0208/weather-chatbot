@@ -1,0 +1,11 @@
+0)dans un terminal, tapez pip3 install -r install.txt  pour installer tout les packages nécessaire à l'utilisation du bot
+
+1)Dans un terminal lancer le script app.py via python3 app.py
+
+2)Dans un terminal lancer la commande ngrok http 5000
+
+3)Copier le lien du tunnel https crée par ngrok et le coller dans le subscription du webhook dans la page developer Facebook pour l'url de rappel
+
+4)vérifier le jeton avec le token "VERIFY_TOKEN"
+
+5)Envoyer des messages à "Baptiste's bot tutorial" sur messenger pour le tester
